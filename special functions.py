@@ -13,5 +13,5 @@ def pi212(prop1, prop2):
 def pi213(prop1, prop2):
     return disj(conj(prop1, prop2), S(neg(prop1), neg(prop2)))
     
- def pi21(prop1, prop2):
-    return  conj(pi211(prop1, prop2), conj(pi212(prop1, prop2), pi213(prop1, prop2)))
+def pi21(prop1, prop2):
+    return conj(pi211(prop1, prop2), conj(pi212(prop1, prop2), pi213(prop1, prop2)))
