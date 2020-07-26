@@ -42,3 +42,6 @@ def shef(prop1, prop2):
 
 def peir(prop1, prop2):
     return neg(disj(prop1, prop2))
+
+
+tau2 = [falsum, verum, conj, disj, imp, cimp, eq, xor, nimp, ncimp, pr1, pr2, neg1, neg2, shef, peir]
