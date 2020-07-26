@@ -78,3 +78,5 @@ def neg(prop1):
 
 def diam(prop1):
     return(neg(box(neg(prop1))))
+
+atoms = [0, 2, 3, 4, 5, 6, 9, 1]
