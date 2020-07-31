@@ -1,7 +1,7 @@
 from toymodels import *
 from modal_functions import *
 
-def test0(i2, i3, i4, i5, i6, i7, i8):
+def test6(i2, i3, i4, i5, i6, i7, i8):
 
    for f2 in toy[i2]:
        for f3 in toy[i3]:
