@@ -1,3 +1,5 @@
+from basic_functions import *
+
 def verum1(prop1):
     return 1
 def falsum1(prop1):

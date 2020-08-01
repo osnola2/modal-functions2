@@ -1,3 +1,6 @@
+from modalprofile import *
+
+
 def modfun(f2, f3, f4, f5, f6, f7, f8, prop1, prop2):
     if modpro(prop1, prop2) in [[0,0,0,1], [1,1,1,0]]:
         return f2(prop1, prop2)

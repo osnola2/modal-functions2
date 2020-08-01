@@ -1,3 +1,5 @@
+import tau1
+
 def mod(fun1, fun2, prop1):
         if fun1 in tau1:    
             if fun2 in tau1:
